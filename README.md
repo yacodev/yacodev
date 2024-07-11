@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Full Stack Developer</h1>
 <h3 align="center">Javascript | React | Vue.js | Typescript | Node.js | Express.js |</h3>
 
-- 🔭 I’m currently studyng at **Platzi**
+- 🔭 I'm continue currently studying at **Platzi**  because like to learn new technologies
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **angular and nest.js**
 
 - 👯 I’m looking to collaborate on **more open source projects**
 
-- 👨‍💻 All of my projects are available at [https://carlosyaco.com](https://carlosyaco.com)
+- 👨‍💻 All of my projects are available at [https://yacodev.com](https://yacodev.com)
 
 - 📝 I regularly write articles on [https://medium.com/@yacodev](https://medium.com/@yacodev)
 
